@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getPaid",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Paybles.sol": "Payables"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Paybles.sol": {
+			"keccak256": "0x218114e9724789c0f4295bbaf5b8676bafff1eb2a2df1c0e017954741fc5739c",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://4d705d4adee69265e3dd42acaa89f31c948f0c1fc2c3dbe5521fc730e08e11e4",
+				"dweb:/ipfs/QmRWfsA54mamC99iiAa2NXKFYeVjiwP191SGKJVrBrGh4q"
+			]
+		}
+	},
+	"version": 1
+}
